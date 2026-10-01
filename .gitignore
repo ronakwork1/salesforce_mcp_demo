@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.egg-info/
+audit.log
+.pytest_cache/
+.DS_Store
+
+# Local-only docs (not published)
+docs/REQUIREMENTS.md
+docs/DECISIONS.md
